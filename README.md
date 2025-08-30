@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Shaluka 👋
 
-<!--
-**shaluka-ranwalage/shaluka-ranwalage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Undergraduate Software Engineer  
+🌐 Specializing in Web Development (WordPress, Figma, Java, SQL, HTML, C++)  
+🚀 Open to collaborations and freelance opportunities  
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- Figma | WordPress | SQL | HTML | CSS | C++ | JAVA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me
+- LinkedIn: [https://www.linkedin.com/in/shaluka-ranwalage]
+- Instergram: [https://www.instagram.com/shaluka_ranwalage]
+- Facebook: [https://www.facebook.com/shaluka.ranwalage]
