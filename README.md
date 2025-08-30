@@ -6,7 +6,7 @@
 ## 👨‍💻 About Me  
 - 🔭 Currently learning **C++, SQL, WordPress, Figma, HTML/CSS**  
 - 🌱 Passionate about **modern web development & UI design**  
-- 📫 Reach me at: **your-email@example.com**  
+- 📫 Reach me at: **shalukaranwalage@gmail.com**  
 - ⚡ Fun fact: I love building creative digital experiences 🚀  
 
 ---
